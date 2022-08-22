@@ -5,7 +5,7 @@
 💡 &nbsp;I'm Mohammad Durrani, a student who enjoys tinkering, progamming to solve both a variety of problems, contributing to open source projects, and robots. Looking forward to making cool things!\
 🎓 &nbsp;I'm currently a freshman studying Computer Science at the University of Maryland, College Park (2026).\
 🌱 &nbsp;I'm passionate about Cybersecurity, Robotics, and Mathematics.\
-✍️ &nbsp;In my free time, I like to make graphic designs, biking, and reading.\
+✍️ &nbsp;In my free time, I like to do graphic design, go biking, and read books.\
 ✉️ &nbsp;You can shoot me an email at durranim@umd.edu, I'll be sure to respond within 24 hours.
 
 
