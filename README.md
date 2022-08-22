@@ -3,10 +3,13 @@
 ### 👨🏻‍💻 &nbsp;About Me
 
 💡 &nbsp;I'm Mohammad Durrani, a student who enjoys tinkering, progamming to solve both a variety of problems, contributing to open source projects, and robots. Looking forward to making cool things!\
-🎓 &nbsp;I'm currently studying Computer Science at the University of Maryland, College Park (2026).\
+🎓 &nbsp;I'm currently a freshman studying Computer Science at the University of Maryland, College Park (2026).\
 🌱 &nbsp;I'm passionate about Cybersecurity, Robotics, and Mathematics.\
-✍️ &nbsp;In my free time, I like to make graphic designs, biking, and reading. \
-✉️ &nbsp;You can shoot me an email at durranim@umd.edu, I'll be sure to respond within 24 hours.\
+✍️ &nbsp;In my free time, I like to make graphic designs, biking, and reading.\
+✉️ &nbsp;You can shoot me an email at durranim@umd.edu, I'll be sure to respond within 24 hours.
+
+
+:briefcase: &nbsp;Currently looking for Software Engineering internships for Summer 2023 and beyond to further build my skills.\
 📄 &nbsp;Please contact me to get a copy of my resume or if you have any quesitons!
 
 ### 🛠 &nbsp;Tech Stack
@@ -25,7 +28,7 @@
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
 ![Eclipse](https://img.shields.io/badge/-Eclipse-05122A?style=flat&logo=eclipse-ide&logoColor=2C2255)\
 ![Photoshop](https://img.shields.io/badge/-Photoshop-05122A?style=flat&logo=adobe-photoshop)&nbsp;
-![InDesign](https://img.shields.io/badge/-InDesign-05122A?style=flat&logo=adobe-indesign)
+
 
 ### ⚙️ &nbsp;GitHub Analytics
 
