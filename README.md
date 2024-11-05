@@ -3,14 +3,14 @@
 ### 👨🏻‍💻 &nbsp;About Me
 
 💡 &nbsp;I'm Mohammad Durrani, a student who enjoys tinkering, progamming to make people's lives easier, contributing to open source projects, and robots. Looking forward to making cool things!\
-🎓 &nbsp;I'm currently a junior studying Computer Science at the University of Maryland, College Park (2025).\
+🎓 &nbsp;I'm currently a junior studying Computer Science at the University of Maryland, College Park (2026).\
 🌱 &nbsp;I'm passionate about Robotics, Scientific Computing, and Machine Learning\
 ✍️ &nbsp;In my free time, I like to do graphic design (some would say it's my passion), go biking, play games with friends, and read books.\
 ✉️ &nbsp;You can shoot me an email at durranim@umd.edu, I'll be sure to respond as soon as I can.
 
 
 :briefcase: &nbsp;Currently looking for Software Engineering internships for Summer 2024 and beyond to further build my skills.\
-📄 &nbsp;Please contact me to get a copy of my resume or if you have any quesitons!
+📄 &nbsp;Please contact me to get a copy of my resume or if you have any questions!
 
 ### 🛠 &nbsp;Tech Stack
 
